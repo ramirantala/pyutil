@@ -14,3 +14,11 @@ make build
 4. Add your utils to pyutils wrapper
 5. Place pyutils wrapper to your path
 
+
+### Example
+
+```
+./pyutil --version
+./pytil example.py
+
+```
